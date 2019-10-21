@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/User(GET_POST) - Iteration 1","testCaseId":"Test Cases/User(GET_POST)","bindedValues":{"Test":"\u00271\u0027","author":"\u0027Vla\u0027","title":"\u0027Test\u0027"}}
+{"testCaseName":"Test Cases/User(GET_POST) - Iteration 2","testCaseId":"Test Cases/User(GET_POST)","bindedValues":{"Test":"\u002712\u0027","author":"\u0027Vlad\u0027","title":"\u0027Test1\u0027"}}
+{"testCaseName":"Test Cases/User(GET_POST) - Iteration 3","testCaseId":"Test Cases/User(GET_POST)","bindedValues":{"Test":"\u002713\u0027","author":"\u0027Not Vlad\u0027","title":"\u0027Test2\u0027"}}
+{"testCaseName":"Test Cases/User(GET_POST) - Iteration 4","testCaseId":"Test Cases/User(GET_POST)","bindedValues":{"Test":"\u002714\u0027","title":"\u0027Trest3\u0027"}}
+{"testCaseName":"Test Cases/User(GET_POST) - Iteration 5","testCaseId":"Test Cases/User(GET_POST)","bindedValues":{"Test":"\u002715\u0027"}}

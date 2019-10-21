@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1,,,,2019-10-21 12:45:26,2019-10-21 12:45:30,"4,123s",INCOMPLETE
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:45:26,2019-10-21 12:45:28,"2,263s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:45:26,2019-10-21 12:45:28,"2,002s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:45:28,2019-10-21 12:45:28,"0,019s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:45:28,2019-10-21 12:45:29,"0,346s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:45:28,2019-10-21 12:45:29,"0,324s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,008s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,369s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,353s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,001s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,378s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,311s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:45:29,2019-10-21 12:45:29,"0,002s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:45:29,2019-10-21 12:45:30,"0,351s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:45:30,2019-10-21 12:45:30,"0,222s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:45:30,2019-10-21 12:45:30,"0,002s",PASSED

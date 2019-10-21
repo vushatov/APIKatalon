@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="1" time="3" tests="5" failures="0" errors="0">
+    <testsuite name="1" tests="5" failures="0" errors="0" time="3" timestamp="2019-10-21 15:15:04" hostname="vladi - DESKTOP-728KFTB" id="Test Suites/1">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="C:\\Users\\vladi\\Katalon Studio\\APITest\\Reports\\20191021_151502\\1\\20191021_151502"/>
+            <property name="logFiles" value="C:\\Users\\vladi\\Katalon Studio\\APITest\\Reports\\20191021_151502\\1\\20191021_151502\\execution0.log"/>
+            <property name="attachments" value=""/>
+            <property name="hostName" value="vladi - DESKTOP-728KFTB"/>
+            <property name="hostAddress" value="10.1.4.106"/>
+            <property name="os" value="Windows 10 64bit"/>
+            <property name="katalonVersion" value="6.3.3.11"/>
+        </properties>
+        <testcase name="Test Cases/User(GET_POST)" classname="Test Cases/User(GET_POST)" status="PASSED">
+            <system-out>2019-10-21 15:15:04 - [TEST_CASE][PASSED] - Test Cases/User(GET_POST): Test Cases/User(GET_POST)&#xD;
+&#xD;
+2019-10-21 15:15:05 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Object Repository/Create users")): Send request successfully&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][INFO] - HAR: C:\Users\vladi\Katalon Studio\APITest\Reports\20191021_151502\1\20191021_151502\requests\main\0.har&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/User(GET_POST)" classname="Test Cases/User(GET_POST)" status="PASSED">
+            <system-out>2019-10-21 15:15:07 - [TEST_CASE][PASSED] - Test Cases/User(GET_POST): Test Cases/User(GET_POST)&#xD;
+&#xD;
+2019-10-21 15:15:07 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Object Repository/Create users")): Send request successfully&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][INFO] - HAR: C:\Users\vladi\Katalon Studio\APITest\Reports\20191021_151502\1\20191021_151502\requests\main\1.har&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/User(GET_POST)" classname="Test Cases/User(GET_POST)" status="PASSED">
+            <system-out>2019-10-21 15:15:07 - [TEST_CASE][PASSED] - Test Cases/User(GET_POST): Test Cases/User(GET_POST)&#xD;
+&#xD;
+2019-10-21 15:15:07 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Object Repository/Create users")): Send request successfully&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][INFO] - HAR: C:\Users\vladi\Katalon Studio\APITest\Reports\20191021_151502\1\20191021_151502\requests\main\2.har&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/User(GET_POST)" classname="Test Cases/User(GET_POST)" status="PASSED">
+            <system-out>2019-10-21 15:15:07 - [TEST_CASE][PASSED] - Test Cases/User(GET_POST): Test Cases/User(GET_POST)&#xD;
+&#xD;
+2019-10-21 15:15:07 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Object Repository/Create users")): Send request successfully&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][INFO] - HAR: C:\Users\vladi\Katalon Studio\APITest\Reports\20191021_151502\1\20191021_151502\requests\main\3.har&#xD;
+&#xD;
+2019-10-21 15:15:07 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/User(GET_POST)" classname="Test Cases/User(GET_POST)" status="PASSED">
+            <system-out>2019-10-21 15:15:07 - [TEST_CASE][PASSED] - Test Cases/User(GET_POST): Test Cases/User(GET_POST)&#xD;
+&#xD;
+2019-10-21 15:15:08 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject("Object Repository/Create users")): Send request successfully&#xD;
+&#xD;
+2019-10-21 15:15:08 - [MESSAGE][INFO] - HAR: C:\Users\vladi\Katalon Studio\APITest\Reports\20191021_151502\1\20191021_151502\requests\main\4.har&#xD;
+&#xD;
+2019-10-21 15:15:08 - [MESSAGE][PASSED] - Send request successfully</system-out>
+            <system-err></system-err>
+        </testcase>
+        <system-out>2019-10-21 15:15:04 - [TEST_SUITE][INCOMPLETE] - 1: null</system-out>
+        <system-err>2019-10-21 15:15:04 - [TEST_SUITE][INCOMPLETE] - 1: null</system-err>
+    </testsuite>
+</testsuites>

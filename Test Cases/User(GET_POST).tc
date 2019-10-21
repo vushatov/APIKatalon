@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User(GET_POST)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca377985-0656-4c8e-b824-8401726f0354</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e0c979bd-1c97-494b-a3f3-e3d31ff68ada</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a002e19-2727-4bd6-ad8f-cd9be83a2065</id>
+      <masked>false</masked>
+      <name>author</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0340ccc5-92ff-4320-8297-f1eb93f64f75</id>
+      <masked>false</masked>
+      <name>Test</name>
+   </variable>
+</TestCaseEntity>

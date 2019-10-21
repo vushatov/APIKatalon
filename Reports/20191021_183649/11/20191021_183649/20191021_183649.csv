@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+11,,,,2019-10-21 18:36:51,2019-10-21 18:36:54,"2,860s",INCOMPLETE
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 18:36:52,2019-10-21 18:36:53,"1,588s",PASSED
+"sendRequest(findTestObject(""Create users"", [""title"":title, ""author"":author, ""Test"":Test]))",,,,2019-10-21 18:36:52,2019-10-21 18:36:53,"1,303s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 18:36:53,2019-10-21 18:36:54,"0,395s",PASSED
+"sendRequest(findTestObject(""Create users"", [""title"":title, ""author"":author, ""Test"":Test]))",,,,2019-10-21 18:36:53,2019-10-21 18:36:54,"0,387s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,182s",PASSED
+"sendRequest(findTestObject(""Create users"", [""title"":title, ""author"":author, ""Test"":Test]))",,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,165s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,132s",PASSED
+"sendRequest(findTestObject(""Create users"", [""title"":title, ""author"":author, ""Test"":Test]))",,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,104s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,106s",PASSED
+"sendRequest(findTestObject(""Create users"", [""title"":title, ""author"":author, ""Test"":Test]))",,,,2019-10-21 18:36:54,2019-10-21 18:36:54,"0,080s",PASSED

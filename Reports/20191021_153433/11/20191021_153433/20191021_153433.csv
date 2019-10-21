@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+11,,,,2019-10-21 15:34:35,2019-10-21 15:34:38,"3,228s",INCOMPLETE
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 15:34:35,2019-10-21 15:34:38,"2,980s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 15:34:36,2019-10-21 15:34:38,"1,599s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 15:34:38,2019-10-21 15:34:38,"0,018s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 15:34:38,2019-10-21 15:34:38,"0,114s",PASSED

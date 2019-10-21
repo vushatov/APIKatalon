@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1,,,,2019-10-21 12:30:53,2019-10-21 12:31:05,"11,774s",INCOMPLETE
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:30:54,2019-10-21 12:31:00,"6,013s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:30:56,2019-10-21 12:31:00,"3,460s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:31:00,2019-10-21 12:31:00,"0,020s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:31:00,2019-10-21 12:31:00,"0,202s",PASSED
+"verifyElementPropertyValue(response, ""author"", findTestData(""REST"").getValue(2, 1))",,,,2019-10-21 12:31:00,2019-10-21 12:31:00,"0,152s",PASSED
+"response = sendRequest(findTestObject(""GETs user""))",,,,2019-10-21 12:31:00,2019-10-21 12:31:00,"0,323s",PASSED
+"containsString(response, findTestData(""REST"").getValue(1, 1), false)",,,,2019-10-21 12:31:00,2019-10-21 12:31:00,"0,052s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:31:01,2019-10-21 12:31:02,"1,022s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:31:01,2019-10-21 12:31:01,"0,564s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:31:01,2019-10-21 12:31:01,"0,003s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:31:01,2019-10-21 12:31:01,"0,042s",PASSED
+"verifyElementPropertyValue(response, ""author"", findTestData(""REST"").getValue(2, 1))",,,,2019-10-21 12:31:01,2019-10-21 12:31:01,"0,137s",PASSED
+"response = sendRequest(findTestObject(""GETs user""))",,,,2019-10-21 12:31:01,2019-10-21 12:31:02,"0,125s",PASSED
+"containsString(response, findTestData(""REST"").getValue(1, 1), false)",,,,2019-10-21 12:31:02,2019-10-21 12:31:02,"0,032s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:31:02,2019-10-21 12:31:03,"1,639s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:31:02,2019-10-21 12:31:02,"0,585s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:31:02,2019-10-21 12:31:02,"0,003s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:31:02,2019-10-21 12:31:02,"0,173s",PASSED
+"verifyElementPropertyValue(response, ""author"", findTestData(""REST"").getValue(2, 1))",,,,2019-10-21 12:31:02,2019-10-21 12:31:03,"0,128s",PASSED
+"response = sendRequest(findTestObject(""GETs user""))",,,,2019-10-21 12:31:03,2019-10-21 12:31:03,"0,710s",PASSED
+"containsString(response, findTestData(""REST"").getValue(1, 1), false)",,,,2019-10-21 12:31:03,2019-10-21 12:31:03,"0,016s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:31:03,2019-10-21 12:31:04,"1,096s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:31:03,2019-10-21 12:31:04,"0,784s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:31:04,2019-10-21 12:31:04,"0,002s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:31:04,2019-10-21 12:31:04,"0,025s",PASSED
+"verifyElementPropertyValue(response, ""author"", findTestData(""REST"").getValue(2, 1))",,,,2019-10-21 12:31:04,2019-10-21 12:31:04,"0,047s",PASSED
+"response = sendRequest(findTestObject(""GETs user""))",,,,2019-10-21 12:31:04,2019-10-21 12:31:04,"0,158s",PASSED
+"containsString(response, findTestData(""REST"").getValue(1, 1), false)",,,,2019-10-21 12:31:04,2019-10-21 12:31:04,"0,018s",PASSED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:31:04,2019-10-21 12:31:05,"0,755s",PASSED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:31:04,2019-10-21 12:31:05,"0,387s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:31:05,2019-10-21 12:31:05,"0,001s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:31:05,2019-10-21 12:31:05,"0,055s",PASSED
+"verifyElementPropertyValue(response, ""author"", findTestData(""REST"").getValue(2, 1))",,,,2019-10-21 12:31:05,2019-10-21 12:31:05,"0,077s",PASSED
+"response = sendRequest(findTestObject(""GETs user""))",,,,2019-10-21 12:31:05,2019-10-21 12:31:05,"0,112s",PASSED
+"containsString(response, findTestData(""REST"").getValue(1, 1), false)",,,,2019-10-21 12:31:05,2019-10-21 12:31:05,"0,017s",PASSED

@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1,,,,2019-10-21 12:54:13,2019-10-21 12:54:17,"4,304s",INCOMPLETE
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:54:13,2019-10-21 12:54:16,"2,248s",FAILED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:54:14,2019-10-21 12:54:15,"1,308s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:54:15,2019-10-21 12:54:15,"0,020s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:54:15,2019-10-21 12:54:16,"0,668s",FAILED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:54:16,2019-10-21 12:54:16,"0,424s",FAILED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:54:16,2019-10-21 12:54:16,"0,300s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:54:16,2019-10-21 12:54:16,"0,004s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:54:16,2019-10-21 12:54:16,"0,099s",FAILED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:54:16,2019-10-21 12:54:17,"0,399s",FAILED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:54:16,2019-10-21 12:54:17,"0,308s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,002s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,065s",FAILED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,354s",FAILED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,199s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,006s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,090s",FAILED
+,,,,,,,
+Test Cases/User(GET_POST),,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,429s",FAILED
+"response = sendRequest(findTestObject(""Object Repository/Create users""))",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,315s",PASSED
+"verifyResponseStatusCode(response, 201)",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,003s",PASSED
+"verifyElementPropertyValue(response, ""title"", findTestData(""REST"").getValue(1, 1))",,,,2019-10-21 12:54:17,2019-10-21 12:54:17,"0,042s",FAILED
